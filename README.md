@@ -47,7 +47,7 @@ The goal is to identify patterns that can help inform better trading strategies.
 
 ##  Bonus (Optional)
 
-A simple predictive model was built to estimate next-day trader profitability using sentiment and behavioral features, achieving ~66% accuracy.
+A simple predictive model was built to estimate next-day trader profitability using sentiment and behavioral features, achieving ~64.6% accuracy.
 
 
 ##  How to Run
